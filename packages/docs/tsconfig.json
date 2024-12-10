@@ -28,7 +28,6 @@
         "name": "next"
       }
     ],
-    
   },
   "include": [
     "next-env.d.ts",
@@ -36,7 +35,7 @@
     "**/*.ts",
     "**/*.tsx",
     "mdx-components.js"
-  ],
+, "tailwind.config.js"  ],
   "exclude": [
     "node_modules"
   ]
